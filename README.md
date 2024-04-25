@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am student at AGH in Cracow.
+🌱 I’m currently learning programming in C++ and C
+🔭 I’m currently working on desktop app with OpenGL usage
+
 
 <!--
 **Micro9261/Micro9261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
