@@ -1,6 +1,6 @@
 ### Hi there 👋 I am student at AGH in Cracow.
 🌱 I’m currently learning programming in C++ and C
-🔭 I’m currently working on desktop app with OpenGL usage
+🔭 Current project:  **desktop app with OpenGL usage**
 
 
 <!--
