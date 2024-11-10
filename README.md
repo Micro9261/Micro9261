@@ -1,6 +1,6 @@
 ### Hi there 👋 I am student at AGH in Cracow.
 🌱 I’m currently learning programming in C++ and C
-🔭 Current projects:  **desktop app with OpenGL usage & **
+🔭 Current projects:  **desktop app with OpenGL usage ** and 
                       **TG19264 Display library for embedded IC**
 
 
